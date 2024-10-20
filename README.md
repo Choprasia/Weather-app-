@@ -1,4 +1,3 @@
-# Weather-app
 # Real-Time Data Processing System for Weather Monitoring with Rollups and Aggregates
 
 ## Objective
@@ -81,15 +80,20 @@ For each received weather update:
 
 ### Installation
 
-1. Connect with frontend:
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/username/weather-monitoring-system.git
    cd weather-wen-app/frontend
-   
+   ```
+
 2. Install Dependencies
+
+```sh
     npm i
-
+```
 3.run Script
-  npm run dev
-
+  ```npm run dev
+```
 ## Viewing Visualizations
 -The application will display daily weather summaries, historical trends, and triggered alerts on the web interface.
 
